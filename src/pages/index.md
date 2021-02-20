@@ -26,7 +26,7 @@ seo:
       value: Stackbit Sample Blog
       keyName: property
     - name: 'og:description'
-      value: The preview of the Ampersand theme
+      value: Preview Section
       keyName: property
     - name: 'og:image'
       value: images/ampersand-preview.png
